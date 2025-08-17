@@ -2,6 +2,7 @@
   "name": "ai-diagnostic-dashboard",
   "version": "1.0.0",
   "description": "AI-powered remote diagnostic station dashboard for rural healthcare",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "lucide-react": "^0.263.1",
